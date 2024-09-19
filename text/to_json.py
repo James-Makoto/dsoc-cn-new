@@ -16,3 +16,7 @@ for name in ('fusion',):
 for name in ('code.bin',):
     trans = Translation(f'{name}.xlsx')
     trans.save(f'{name}.json', index='Tag')
+
+for name in ('ds_auction',):
+    trans = Translation(f'{name}.xlsx')
+    trans.save(f'{name}.json', index='Tag')
