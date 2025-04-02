@@ -1,0 +1,3434 @@
+[
+    {
+        "No.": "1",
+        "File": "bad_word_00.png",
+        "Jpn": "立ちはだかる天使を倒し、",
+        "Chs": "打倒拦路的天使后",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "2",
+        "File": "bad_word_01.png",
+        "Jpn": "封鎖を突破した少年たちは、",
+        "Chs": "突破封锁的少年们",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "3",
+        "File": "bad_word_02.png",
+        "Jpn": "家路を急いだ。",
+        "Chs": "急忙赶回了家",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "4",
+        "File": "bad_word_03.png",
+        "Jpn": "やっとの思いで家に辿り着いた時、",
+        "Chs": "当他们好不容易回到家时",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "5",
+        "File": "bad_word_04.png",
+        "Jpn": "少年たちは封鎖内に起きた惨劇を知る。",
+        "Chs": "却得知封锁内发生了惨剧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "6",
+        "File": "bad_word_05.png",
+        "Jpn": "彼らが封鎖を突破してすぐに、",
+        "Chs": "就在他们突破封锁不久",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "7",
+        "File": "bad_word_06.png",
+        "Jpn": "山手線内に集中的な雷が落ち、",
+        "Chs": "山手线内降下集中雷击",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "8",
+        "File": "bad_word_07.png",
+        "Jpn": "封鎖内にいた人々は、",
+        "Chs": "封锁内的人们",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "9",
+        "File": "bad_word_08.png",
+        "Jpn": "全て死に絶えたというのだ。",
+        "Chs": "全部都因此丧生",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "10",
+        "File": "bad_word_09.png",
+        "Jpn": "…だが。",
+        "Chs": "然而……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "11",
+        "File": "bad_word_10.png",
+        "Jpn": "本当の異変はその後にやって来る。",
+        "Chs": "真正的异变还在后头",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "12",
+        "File": "bad_word_11.png",
+        "Jpn": "突如として空に現れた",
+        "Chs": "一群『天使』",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "13",
+        "File": "bad_word_12.png",
+        "Jpn": "『天使』の群れにより、",
+        "Chs": "突然从天而降",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "14",
+        "File": "bad_word_13.png",
+        "Jpn": "人間の行動は常に監視され、",
+        "Chs": "天使时刻监视着人类的行动",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "15",
+        "File": "bad_word_14.png",
+        "Jpn": "完全な支配下に置かれるだろう。",
+        "Chs": "人类完全处于天使的支配之下",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "16",
+        "File": "bad_word_15.png",
+        "Jpn": "自主性などなく、",
+        "Chs": "一切都失去自主",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "17",
+        "File": "bad_word_16.png",
+        "Jpn": "ただ命令に従うだけの、",
+        "Chs": "迈向只剩服从的、",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "18",
+        "File": "bad_word_17.png",
+        "Jpn": "神により強制されたかんぜんなる世界へ…。",
+        "Chs": "被神明强权统治的完美世界……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "19",
+        "File": "A_mail_00.png",
+        "Jpn": "人の子よ——。",
+        "Chs": "人子啊——",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "20",
+        "File": "A_mail_01.png",
+        "Jpn": "汝、身に余りたるベルの力、",
+        "Chs": "汝，Bel之力虽寄宿于身",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "21",
+        "File": "A_mail_02.png",
+        "Jpn": "あえて手放したる英断——見事なり。",
+        "Chs": "却将其舍弃——此英断，\n甚为出色",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "22",
+        "File": "A_mail_03.png",
+        "Jpn": "されどベルの力、",
+        "Chs": "然而，Bel之力",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "23",
+        "File": "A_mail_04.png",
+        "Jpn": "汝の内にて、まどろむに過ぎず。",
+        "Chs": "只是在汝体内沉睡",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "24",
+        "File": "A_mail_05.png",
+        "Jpn": "汝、力の誘惑に敗れ、",
+        "Chs": "汝，败于力量之诱惑",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "25",
+        "File": "A_mail_06.png",
+        "Jpn": "欲望のままに其を振るう時来らば、",
+        "Chs": "顺从欲望为所欲为之际",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "26",
+        "File": "A_mail_07.png",
+        "Jpn": "我ら全ての力以で、汝を迎え討たん。",
+        "Chs": "我等将竭尽全力讨伐汝",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "27",
+        "File": "A_mail_08.png",
+        "Jpn": "人の子よ、世の行く末はただ、",
+        "Chs": "人子啊，世界的命运",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "28",
+        "File": "A_mail_09.png",
+        "Jpn": "汝の己に敗るるか否かに懲かりたり。",
+        "Chs": "仅仅只是取决于汝是否败于自身",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "29",
+        "File": "A_mail_10.png",
+        "Jpn": "努々、忘るるなかれ——。",
+        "Chs": "切勿忘记——",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "30",
+        "File": "A_mail_11.png",
+        "Jpn": "——それは、神をも脅かす大いなる力。",
+        "Chs": "——那是能对神明造成威胁的强大力量",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "31",
+        "File": "A_mail_12.png",
+        "Jpn": "汝、人としての生を選ぶなれば、",
+        "Chs": "汝，既选择身为人类的人生",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "32",
+        "File": "A_mail_13.png",
+        "Jpn": "其は、己が道を信じる源として、",
+        "Chs": "便要以此为信念",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "33",
+        "File": "A_mail_14.png",
+        "Jpn": "ただ内に秘め置くべき物なり。",
+        "Chs": "将这份力量埋藏在体内",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "34",
+        "File": "A_mail_15.png",
+        "Jpn": "さすれば、御遣いと悪魔の乱れ争うに、",
+        "Chs": "否则，在使徒与恶魔的纷争之中",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "35",
+        "File": "A_mail_16.png",
+        "Jpn": "世界は原初の混沌へと還るであろう。",
+        "Chs": "世界将回归于原初之混沌",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "36",
+        "File": "A_word_1_00.png",
+        "Jpn": "こうして、バ・ベルは消滅した。",
+        "Chs": "就这样，巴别塔被消灭了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "37",
+        "File": "A_word_1_01.png",
+        "Jpn": "事実を正しく知る者はわずかでも、",
+        "Chs": "即使知道事实的人寥寥无几",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "38",
+        "File": "A_word_1_02.png",
+        "Jpn": "人々は禍々しい気配が消えた事を、",
+        "Chs": "但人们仍默默地感受到",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "39",
+        "File": "A_word_1_03.png",
+        "Jpn": "無言の内に感じ取った。",
+        "Chs": "不祥的存在已经消失",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "40",
+        "File": "A_word_1_04.png",
+        "Jpn": "そして、その日の夕方…。",
+        "Chs": "然后，当天傍晚……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "41",
+        "File": "A_word_1_05.png",
+        "Jpn": "７日に及ぶ「東京封鎖」は、",
+        "Chs": "长达七天的「东京封锁」",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "42",
+        "File": "A_word_1_06.png",
+        "Jpn": "ついに解除された。",
+        "Chs": "终于解除了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "43",
+        "File": "A_word_1_07.png",
+        "Jpn": "生き延びた者は、命ある事に感謝し、",
+        "Chs": "幸存者庆幸自己得以存活，心存感激",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "44",
+        "File": "A_word_1_08.png",
+        "Jpn": "思いはやがて弔いとなって、",
+        "Chs": "思念化为怀念",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "45",
+        "File": "A_word_1_09.png",
+        "Jpn": "犠牲者たちへも向けられた…。",
+        "Chs": "追悼牺牲者的逝去……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "46",
+        "File": "A_word_2_00.png",
+        "Jpn": "…数日後、政府は一連の出来事を、",
+        "Chs": "……几天后，政府发表公告宣称",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "47",
+        "File": "A_word_2_01.png",
+        "Jpn": "毒ガスによる集団幻覚と発表。",
+        "Chs": "这一系列事是由毒气引起的集体幻觉",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "48",
+        "File": "A_word_2_02.png",
+        "Jpn": "人々は「悪魔」の存在を主張したが、",
+        "Chs": "虽然人们主张「恶魔」确实存在",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "49",
+        "File": "A_word_2_03.png",
+        "Jpn": "既にそれを証明する術はない。",
+        "Chs": "但已经无法证明",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "50",
+        "File": "A_word_2_04.png",
+        "Jpn": "悪魔召喚サーバーが失われた今、",
+        "Chs": "失去了恶魔召唤服务器",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "51",
+        "File": "A_word_2_05.png",
+        "Jpn": "改造COMPも、その機能を停止し、",
+        "Chs": "被改造的COMP停止了机能",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "52",
+        "File": "A_word_2_06.png",
+        "Jpn": "全ては記憶の中に残るのみとなった…。",
+        "Chs": "一切都仅仅存于记忆之中……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "53",
+        "File": "A_word_3_00.png",
+        "Jpn": "…そして。",
+        "Chs": "然后……",
+        "Func": "do_word_0",
+        "Comments": ""
+    },
+    {
+        "No.": "54",
+        "File": "A_word_3_01.png",
+        "Jpn": "事件からしばらくが過ぎたある日。",
+        "Chs": "在事件结束的数日后",
+        "Func": "do_word_0",
+        "Comments": ""
+    },
+    {
+        "No.": "55",
+        "File": "A_word_3_02_r.png",
+        "Jpn": "力を失ったはずの改造COMPに、",
+        "Chs": "本应失去力量的改造COMP",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "56",
+        "File": "A_word_3_02_w.png",
+        "Jpn": "力を失ったはずの改造COMPに、",
+        "Chs": "本应失去力量的改造COMP",
+        "Func": "do_word_0",
+        "Comments": ""
+    },
+    {
+        "No.": "57",
+        "File": "A_word_3_03_r.png",
+        "Jpn": "１通のメールが着信した。",
+        "Chs": "收到了一封邮件",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "58",
+        "File": "A_word_3_03_w.png",
+        "Jpn": "１通のメールが着信した。",
+        "Chs": "收到了一封邮件",
+        "Func": "do_word_0",
+        "Comments": ""
+    },
+    {
+        "No.": "59",
+        "File": "B_mail_00.png",
+        "Jpn": "人の子よ——。",
+        "Chs": "人类之子啊——",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "60",
+        "File": "B_mail_01.png",
+        "Jpn": "汝、ベルの王とならず、",
+        "Chs": "汝，未成为Bel之王，",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "61",
+        "File": "B_mail_02.png",
+        "Jpn": "自ら築きたる智と技にて",
+        "Chs": "以自身所筑之智与技",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "62",
+        "File": "B_mail_03.png",
+        "Jpn": "悪魔共を統率せしめたること、",
+        "Chs": "统率恶魔之众",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "63",
+        "File": "B_mail_04.png",
+        "Jpn": "我、確かに見届けたり。",
+        "Chs": "吾，确实见证汝之作为",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "64",
+        "File": "B_mail_05.png",
+        "Jpn": "されど、",
+        "Chs": "然而",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "65",
+        "File": "B_mail_06.png",
+        "Jpn": "魔の力に魅入られ、欲望に敗れし時、",
+        "Chs": "汝为魔力所惑，败于欲望之时，",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "66",
+        "File": "B_mail_07.png",
+        "Jpn": "万魔は再び解き放たるるなり。",
+        "Chs": "万魔将再度解放",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "67",
+        "File": "B_mail_08.png",
+        "Jpn": "されば人の世は、すべからく",
+        "Chs": "如此，人世必将",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "68",
+        "File": "B_mail_09.png",
+        "Jpn": "再びの神の雷にて打たれるであろう。",
+        "Chs": "再度降下神之雷。",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "69",
+        "File": "B_mail_10.png",
+        "Jpn": "我、人の未来に秩序あらん事を望み、",
+        "Chs": "吾，冀望人类未来有序，",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "70",
+        "File": "B_mail_11.png",
+        "Jpn": "汝の所業、とくと見守らん——。",
+        "Chs": "吾将密切关注汝之作为——",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "71",
+        "File": "B_word_1_00.png",
+        "Jpn": "こうして、バ・ベルと悪魔たちは、",
+        "Chs": "就这样，巴别塔与恶魔们",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "72",
+        "File": "B_word_1_01.png",
+        "Jpn": "人の制御し得る存在となった。",
+        "Chs": "成为人类能够控制的存在",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "73",
+        "File": "B_word_1_02.png",
+        "Jpn": "真実を知る者はわずかだったが、",
+        "Chs": "虽然知道真相的人寥寥无几",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "74",
+        "File": "B_word_1_03.png",
+        "Jpn": "街角から悪魔の姿が忽然と消えた事で、",
+        "Chs": "但街角的恶魔忽然消失",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "75",
+        "File": "B_word_1_04.png",
+        "Jpn": "人々は無言の内に、",
+        "Chs": "人们在无言之中，",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "76",
+        "File": "B_word_1_05.png",
+        "Jpn": "事態の収束を感じ取った。",
+        "Chs": "感受到了事态的终结",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "77",
+        "File": "B_word_1_06.png",
+        "Jpn": "そして、その日の夕方…。",
+        "Chs": "然后，当天傍晚……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "78",
+        "File": "B_word_1_07.png",
+        "Jpn": "７日に及ぶ「東京封鎖」は、",
+        "Chs": "长达七天的「东京封锁」",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "79",
+        "File": "B_word_1_08.png",
+        "Jpn": "ついに解除された。",
+        "Chs": "终于解除了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "80",
+        "File": "B_word_1_09.png",
+        "Jpn": "生き延びた者は、命ある事に感謝し、",
+        "Chs": "幸存者庆幸自己得以存活，心存感激",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "81",
+        "File": "B_word_1_10.png",
+        "Jpn": "思いはやがて弔いとなって、",
+        "Chs": "思念化为怀念",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "82",
+        "File": "B_word_1_11.png",
+        "Jpn": "犠牲者たちへも向けられた…。",
+        "Chs": "追悼牺牲者的逝去……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "83",
+        "File": "B_word_2_00.png",
+        "Jpn": "…数日後、政府は一連の出来事を、",
+        "Chs": "……几天后，政府发表公告宣称",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "84",
+        "File": "B_word_2_01.png",
+        "Jpn": "毒ガスによる集団幻覚と発表。",
+        "Chs": "这一系列事是由毒气引起的集体幻觉",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "85",
+        "File": "B_word_2_02.png",
+        "Jpn": "人々は「悪魔」の存在を主張したが、",
+        "Chs": "虽然人们主张「恶魔」确实存在",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "86",
+        "File": "B_word_2_03.png",
+        "Jpn": "既にそれを証明する術はない。",
+        "Chs": "但已经无法证明",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "87",
+        "File": "B_word_2_04.png",
+        "Jpn": "プログラムが書き換えられた事で、",
+        "Chs": "因为程序被改写",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "88",
+        "File": "B_word_2_05.png",
+        "Jpn": "封鎖内で使われていたCOMPでは、",
+        "Chs": "封锁内使用的COMP",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "89",
+        "File": "B_word_2_06.png",
+        "Jpn": "悪魔を呼び出せなくなったからだ。",
+        "Chs": "再也无法召唤出恶魔",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "90",
+        "File": "B_word_3_00.png",
+        "Jpn": "…やがて世界は、",
+        "Chs": "……不久后，世界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "91",
+        "File": "B_word_3_01.png",
+        "Jpn": "悪魔の力を利用した技術によって、",
+        "Chs": "利用恶魔之力的技术",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "92",
+        "File": "B_word_3_02.png",
+        "Jpn": "産業革命、情報革命に続く、",
+        "Chs": "继工业革命、资讯革命之后",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "93",
+        "File": "B_word_3_03.png",
+        "Jpn": "第３の変革へと向かい始める。",
+        "Chs": "开始迈向第三次变革",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "94",
+        "File": "B_word_3_04.png",
+        "Jpn": "パワーバランスの激変は、",
+        "Chs": "力量平衡的剧烈变化",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "95",
+        "File": "B_word_3_05.png",
+        "Jpn": "世界における日本の立場にも、",
+        "Chs": "让日本在世界上的立场",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "96",
+        "File": "B_word_3_06.png",
+        "Jpn": "大きな変化を生じさせた。",
+        "Chs": "也产生了巨大的变化",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "97",
+        "File": "B_word_3_07.png",
+        "Jpn": "軍事力としての「悪魔」は、",
+        "Chs": "作为军事力的「恶魔」",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "98",
+        "File": "B_word_3_08.png",
+        "Jpn": "日本は国連常任理事国の椅子へと、",
+        "Chs": "让日本坐上了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "99",
+        "File": "B_word_3_09.png",
+        "Jpn": "押し上げたのである。",
+        "Chs": "联合国常任理事国的位子",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "100",
+        "File": "B_word_3_10.png",
+        "Jpn": "…結局、列強と対等である為には、",
+        "Chs": "……结果，为了与列强对等",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "101",
+        "File": "B_word_3_11.png",
+        "Jpn": "対等の軍事力が必要。",
+        "Chs": "需要对等的军事力",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "102",
+        "File": "B_word_3_12.png",
+        "Jpn": "それが、この国の新たな選択だった…。",
+        "Chs": "这就是这个国家的新选择……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "103",
+        "File": "B_word_4_00.png",
+        "Jpn": "…そして、事件から時が経ち、",
+        "Chs": "……然后，事件过后，时间变迁",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "104",
+        "File": "B_word_4_01.png",
+        "Jpn": "記憶も薄らぎかけたあるひ。",
+        "Chs": "记忆已逐渐淡去的某一天",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "105",
+        "File": "B_word_4_02_r.png",
+        "Jpn": "力を失ったはずの改造COMPに、",
+        "Chs": "本应失去力量的改造COMP",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "106",
+        "File": "B_word_4_02_w.png",
+        "Jpn": "力を失ったはずの改造COMPに、",
+        "Chs": "本应失去力量的改造COMP",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "107",
+        "File": "B_word_4_03_r.png",
+        "Jpn": "１通のメールが着信した。",
+        "Chs": "收到了一封邮件",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "108",
+        "File": "B_word_4_03_w.png",
+        "Jpn": "１通のメールが着信した。",
+        "Chs": "收到了一封邮件",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "109",
+        "File": "C_mail_00.png",
+        "Jpn": "都から数夜にして",
+        "Chs": "「恶魔」",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "110",
+        "File": "C_mail_01.png",
+        "Jpn": "秩序を奪いし「悪魔」。",
+        "Chs": "从京城夺走数夜的秩序",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "111",
+        "File": "C_mail_02.png",
+        "Jpn": "彼らを野に放たぬ為の封鎖と、",
+        "Chs": "汝明知，为防止悪魔肆意妄为",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "112",
+        "File": "C_mail_03.png",
+        "Jpn": "汝は知っていた。",
+        "Chs": "吾等设下封锁",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "113",
+        "File": "C_mail_04.png",
+        "Jpn": "されど…汝は全てに目を背けた。",
+        "Chs": "然而……汝却对这一切视而不见",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "114",
+        "File": "C_mail_05.png",
+        "Jpn": "悪魔から逃げたのではない。",
+        "Chs": "不是逃离恶魔",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "115",
+        "File": "C_mail_06.png",
+        "Jpn": "苦しみから逃げたのではない。",
+        "Chs": "不是逃离痛苦",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "116",
+        "File": "C_mail_07.png",
+        "Jpn": "汝は…「己」から逃げたのだ。",
+        "Chs": "汝是……逃离「自己」",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "117",
+        "File": "C_mail_08.png",
+        "Jpn": "いつか、汝ら人が真に賢明とならば、",
+        "Chs": "若有一天，汝等人类真正贤明",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "118",
+        "File": "C_mail_09.png",
+        "Jpn": "あるいは再び人の手に、",
+        "Chs": "或许和平会再度回到",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "119",
+        "File": "C_mail_10.png",
+        "Jpn": "平穏が戻る事もあるだろう。",
+        "Chs": "人类手中。",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "120",
+        "File": "C_mail_11.png",
+        "Jpn": "その日まで、",
+        "Chs": "在那之前",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "121",
+        "File": "C_mail_12.png",
+        "Jpn": "人の子よ…悔いて生きよ。",
+        "Chs": "人类之子啊……活在悔恨中吧",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "122",
+        "File": "C_mail_13.png",
+        "Jpn": "己が招いたる混沌の中で。",
+        "Chs": "在汝等招来的混沌之中",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "123",
+        "File": "C_mail_14.png",
+        "Jpn": "…果たして、闇雲に囲いを破らば、",
+        "Chs": "……汝曾用有「时间」",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "124",
+        "File": "C_mail_15.png",
+        "Jpn": "世界は如何になるやと考える「時」も、",
+        "Chs": "思考胡乱打破桎梏",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "125",
+        "File": "C_mail_16.png",
+        "Jpn": "汝は持ち得ていた。",
+        "Chs": "世界会如何变化",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "126",
+        "File": "C_mail_17.png",
+        "Jpn": "…あまつさえ、悪魔どものみならず、",
+        "Chs": "……汝甚至曾经拥有",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "127",
+        "File": "C_mail_18.png",
+        "Jpn": "己の運命とさえ、たたかえる「力」をも、",
+        "Chs": "不只恶魔",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "128",
+        "File": "C_mail_19.png",
+        "Jpn": "汝は持ち得ていた。",
+        "Chs": "连自己的命运都能对抗的「力量」",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "129",
+        "File": "C_mail_20.png",
+        "Jpn": "そして「考えなかった」。",
+        "Chs": "然而汝却「不去思考」",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "130",
+        "File": "C_mail_21.png",
+        "Jpn": "自ら救われんとせぎる者を、",
+        "Chs": "神不拯救",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "131",
+        "File": "C_mail_22.png",
+        "Jpn": "神は救わず…。",
+        "Chs": "不渴求救赎之人",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "132",
+        "File": "C_word_1_00.png",
+        "Jpn": "実力で封鎖線を突破する試みは、",
+        "Chs": "历经千辛万苦",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "133",
+        "File": "C_word_1_01.png",
+        "Jpn": "辛くも成功を収めた。",
+        "Chs": "以实力突破了封锁线",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "134",
+        "File": "C_word_1_02.png",
+        "Jpn": "だが…。",
+        "Chs": "然而……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "135",
+        "File": "C_word_1_03.png",
+        "Jpn": "ようやく家路につく事ができる…、",
+        "Chs": "终于能够回家……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "136",
+        "File": "C_word_1_04.png",
+        "Jpn": "そう願う少年たちの眼前に広がる光景は、",
+        "Chs": "如此期望的少年们眼前展开的光景",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "137",
+        "File": "C_word_1_05.png",
+        "Jpn": "待ち望んだ彼らの世界はとは、",
+        "Chs": "与他们所盼望的世界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "138",
+        "File": "C_word_1_06.png",
+        "Jpn": "まったく違っていた。",
+        "Chs": "大相径庭",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "139",
+        "File": "C_word_1_07.png",
+        "Jpn": "はびこる悪魔、逃げ惑う人々。",
+        "Chs": "恶魔四处横行，人们四处逃窜",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "140",
+        "File": "C_word_1_08.png",
+        "Jpn": "封鎖の外に広がっていたのは、",
+        "Chs": "封锁之外展开的——",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "141",
+        "File": "C_word_1_09.png",
+        "Jpn": "内側と何も変わらぬ惨状だったのだ。",
+        "Chs": "是与封锁内毫无二致的惨状",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "142",
+        "File": "C_word_4_00.png",
+        "Jpn": "…やがて東京封鎖は、",
+        "Chs": "……最后，东京封锁",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "143",
+        "File": "C_word_4_01.png",
+        "Jpn": "作戦の最終段階が実行されぬまま、",
+        "Chs": "在作战的最终阶段尚未实行的状况下",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "144",
+        "File": "C_word_4_02.png",
+        "Jpn": "本当に解除された。",
+        "Chs": "真的被解除了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "145",
+        "File": "C_word_4_03.png",
+        "Jpn": "天使という後ろ盾を失った自衛隊は、",
+        "Chs": "失去以天使为后盾的自卫队",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "146",
+        "File": "C_word_4_04.png",
+        "Jpn": "ホンダと、その仲間が呼び出した悪魔に、",
+        "Chs": "面对本多与其伙伴召唤而来的恶魔",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "147",
+        "File": "C_word_4_05.png",
+        "Jpn": "なす術もなく敗退を続けたのだ。",
+        "Chs": "束手无策，节节败退",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "148",
+        "File": "C_word_4_06.png",
+        "Jpn": "崩壊を止める手段はもう何も無い。",
+        "Chs": "已经没有任何手段可以阻止崩坏了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "149",
+        "File": "C_word_4_07.png",
+        "Jpn": "その為に居た天使たちは、",
+        "Chs": "因为原本为了这个目的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "150",
+        "File": "C_word_4_08.png",
+        "Jpn": "他ならぬ少年たちの手で、",
+        "Chs": "而存在的天使",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "151",
+        "File": "C_word_4_09.png",
+        "Jpn": "倒されてしまったのだから…。",
+        "Chs": "正是由这些少年亲手打倒的……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "152",
+        "File": "C_word_5_00.png",
+        "Jpn": "…そして、封鎖解除から数ヶ月後。",
+        "Chs": "……然后，封锁解除后过了几个月",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "153",
+        "File": "C_word_5_01.png",
+        "Jpn": "暴力の支配する新たな世界の中で、",
+        "Chs": "在由暴力支配的新世界中",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "154",
+        "File": "C_word_5_02.png",
+        "Jpn": "平穏という言葉は意味を忘れかけた頃、",
+        "Chs": "当「和平」这一词快要失去意义的时候",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "155",
+        "File": "C_word_5_03.png",
+        "Jpn": "COMPに１通のメールが着信した…。",
+        "Chs": "COMP收到一封邮件……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "156",
+        "File": "E_mail_00.png",
+        "Jpn": "汝…人の子にして、",
+        "Chs": "汝……身为人子",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "157",
+        "File": "E_mail_01.png",
+        "Jpn": "万魔の王となりし者よ。",
+        "Chs": "却成为万魔之王之人啊",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "158",
+        "File": "E_mail_02.png",
+        "Jpn": "原初より継がれたる神の秩序をふり捨て、",
+        "Chs": "汝舍弃自太初所传下的神之秩序",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "159",
+        "File": "E_mail_03.png",
+        "Jpn": "己が欲するまま、",
+        "Chs": "顺从己欲",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "160",
+        "File": "E_mail_04.png",
+        "Jpn": "新たなる秩序に塗り替えんと欲する、",
+        "Chs": "欲以新之秩序涂改世界的",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "161",
+        "File": "E_mail_05.png",
+        "Jpn": "愚かなる者よ…。",
+        "Chs": "愚昧者啊……",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "162",
+        "File": "E_mail_06.png",
+        "Jpn": "汝の選び取りしは、神への反旗。",
+        "Chs": "汝所选择者，乃对神之反叛",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "163",
+        "File": "E_mail_07.png",
+        "Jpn": "今や我と汝は、互いに仇敵たり。",
+        "Chs": "如今，我与汝乃互为仇敌",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "164",
+        "File": "E_mail_08.png",
+        "Jpn": "真に人を守らんと欲すれば、",
+        "Chs": "若欲真正守护人类",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "165",
+        "File": "E_mail_09.png",
+        "Jpn": "己が背負いし定めの重さと、",
+        "Chs": "便与汝背负之宿命枷锁",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "166",
+        "File": "E_mail_10.png",
+        "Jpn": "戦い抜くが良い。",
+        "Chs": "奋战到底",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "167",
+        "File": "E_mail_11.png",
+        "Jpn": "運命が残るべき者を決める。",
+        "Chs": "命运将决定应当留下之人",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "168",
+        "File": "E_mail_12.png",
+        "Jpn": "その日まで…。",
+        "Chs": "直至那天……",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "169",
+        "File": "E_word_1_00.png",
+        "Jpn": "全てのベルたちが倒され、",
+        "Chs": "所有的Bel恶魔被打倒后",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "170",
+        "File": "E_word_1_01.png",
+        "Jpn": "「ベルの王」はついに生まれた。",
+        "Chs": "「Bel之王」终于诞生了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "171",
+        "File": "E_word_1_02.png",
+        "Jpn": "東京中の悪魔を無言でひざまずかせる、",
+        "Chs": "一名少年的到访",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "172",
+        "File": "E_word_1_03.png",
+        "Jpn": "一人の少年の訪れに、",
+        "Chs": "令东京的恶魔们无言地屈膝……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "173",
+        "File": "E_word_1_04.png",
+        "Jpn": "政府は封鎖の無意味さえを理解し、",
+        "Chs": "政府也明白封锁毫无意义……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "174",
+        "File": "E_word_1_05.png",
+        "Jpn": "これを解除した…。",
+        "Chs": "便解除了封锁……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "175",
+        "File": "E_word_2_00.png",
+        "Jpn": "…やがて。",
+        "Chs": "不久之后……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "176",
+        "File": "E_word_2_01.png",
+        "Jpn": "東京に端を発した異変は、",
+        "Chs": "从东京开始的异变……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "177",
+        "File": "E_word_2_02.png",
+        "Jpn": "たちまち全国に、そして世界に広まり、",
+        "Chs": "立刻扩散到全国，乃至全世界……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "178",
+        "File": "E_word_2_03.png",
+        "Jpn": "数え切れぬ程の悪魔が、",
+        "Chs": "数不尽的恶魔……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "179",
+        "File": "E_word_2_04.png",
+        "Jpn": "ア・ベルの傘下に軍勢を成した。",
+        "Chs": "在Abel麾下组成军队。",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "180",
+        "File": "E_word_2_05.png",
+        "Jpn": "ほどなくして、",
+        "Chs": "不久之后……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "181",
+        "File": "E_word_2_06.png",
+        "Jpn": "戦いの火蓋は切られる。",
+        "Chs": "战火即将燃起",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "182",
+        "File": "E_word_2_07.png",
+        "Jpn": "神魔の壮絶な戦いを前に、",
+        "Chs": "面对神魔的壮烈之战……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "183",
+        "File": "E_word_2_08.png",
+        "Jpn": "人間は争いの巻き添えとならぬよう、",
+        "Chs": "人类为了避免被卷入争端……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "184",
+        "File": "E_word_2_09.png",
+        "Jpn": "国を越えて協力し、",
+        "Chs": "跨越国界……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "185",
+        "File": "E_word_2_10.png",
+        "Jpn": "必死に手に取り会うだろう。",
+        "Chs": "拼命寻求合作共存之道",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "186",
+        "File": "E_word_2_11.png",
+        "Jpn": "天使にも悪魔にも敵と見なされぬよう、",
+        "Chs": "为了不被天使和恶魔视为敌人……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "187",
+        "File": "E_word_2_12.png",
+        "Jpn": "「人らしく生きる」こと…。",
+        "Chs": "为了「作为人类活下去」……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "188",
+        "File": "E_word_3_00.png",
+        "Jpn": "皮肉にも、人間はこの受難の中で、",
+        "Chs": "讽刺的是，人类在这场灾难中……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "189",
+        "File": "E_word_3_01.png",
+        "Jpn": "初めて分をわきまえた生き方を願うのだ。",
+        "Chs": "才第一次期望自己能认清分寸地活着",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "190",
+        "File": "E_word_4_00.png",
+        "Jpn": "…開戦を目の前にしたある日。",
+        "Chs": "在开战的前一天",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "191",
+        "File": "E_word_4_01.png",
+        "Jpn": "既に意味を失って久しいCOMPに、",
+        "Chs": "早已失去意义许久的COMP",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "192",
+        "File": "E_word_4_02.png",
+        "Jpn": "１通のメールが着信した…。",
+        "Chs": "收到了一封邮件……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "193",
+        "File": "F_mail_00.png",
+        "Jpn": "汝——人の子にして、",
+        "Chs": "汝乃——身为人子，",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "194",
+        "File": "F_mail_01.png",
+        "Jpn": "万魔の王となりし者よ。",
+        "Chs": "却成为万魔之王之人。",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "195",
+        "File": "F_mail_02.png",
+        "Jpn": "幾多の試練をよくぞ勝ち抜いた。",
+        "Chs": "汝历经重重试炼，终于脱颖而出",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "196",
+        "File": "F_mail_03.png",
+        "Jpn": "魔王と成りし汝が、神にひざまずく今、",
+        "Chs": "成为魔王的汝，如今跪拜于神之前",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "197",
+        "File": "F_mail_04.png",
+        "Jpn": "世界はことごとく神の威光に満ち、",
+        "Chs": "世界将充满神之威光",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "198",
+        "File": "F_mail_05.png",
+        "Jpn": "秩序の国となり行けり。",
+        "Chs": "世界将化为秩序之国",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "199",
+        "File": "F_mail_06.png",
+        "Jpn": "嘘も不実も、心の迷いも、",
+        "Chs": "谎言、虚伪、迷惘……",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "200",
+        "File": "F_mail_07.png",
+        "Jpn": "秩序にあらざれば、すべからく、",
+        "Chs": "若非秩序所容，皆当受罚",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "201",
+        "File": "F_mail_08.png",
+        "Jpn": "各々、その罪に応じて裁かれん。",
+        "Chs": "各依其罪，接受裁罚",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "202",
+        "File": "F_mail_09.png",
+        "Jpn": "汝、忠実なる神の僕としての働き、",
+        "Chs": "汝，身为神忠实的仆人……",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "203",
+        "File": "F_mail_10.png",
+        "Jpn": "神への永世の忠信、",
+        "Chs": "对神永世忠信……",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "204",
+        "File": "F_mail_11.png",
+        "Jpn": "我、期待をもって見守らん——",
+        "Chs": "吾将满怀期待，守望汝——",
+        "Func": "do_mail",
+        "Comments": ""
+    },
+    {
+        "No.": "205",
+        "File": "F_word_1_00.png",
+        "Jpn": "…ほどなくして、",
+        "Chs": "不久之后……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "206",
+        "File": "F_word_1_01.png",
+        "Jpn": "一週間に及ぶ「東京封鎖」は、",
+        "Chs": "长达一周的「东京封锁」……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "207",
+        "File": "F_word_1_02.png",
+        "Jpn": "ついに解除された。",
+        "Chs": "终于解除了。",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "208",
+        "File": "F_word_1_03.png",
+        "Jpn": "事実を知る者はわずかだったが、",
+        "Chs": "虽然知道事实的人不多",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "209",
+        "File": "F_word_1_04.png",
+        "Jpn": "人々は、禍々しい気配が消えた事を",
+        "Chs": "但人们在沉默之中",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "210",
+        "File": "F_word_1_05.png",
+        "Jpn": "無言の内に感じ取った。",
+        "Chs": "感觉到了不祥气息的消失",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "211",
+        "File": "F_word_1_06.png",
+        "Jpn": "生き延びた者は、命ある事に感謝し、",
+        "Chs": "幸存者庆幸自己得以存活，心存感激",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "212",
+        "File": "F_word_1_07.png",
+        "Jpn": "犠牲者たちに弔いを捧げた…。",
+        "Chs": "悼念牺牲者……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "213",
+        "File": "F_word_2_00.png",
+        "Jpn": "やがて、平穏を取り戻した世界に、",
+        "Chs": "不久，世界恢复了平静",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "214",
+        "File": "F_word_2_01.png",
+        "Jpn": "新たな秩序がその姿を現す。",
+        "Chs": "新的秩序出现了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "215",
+        "File": "F_word_2_02.png",
+        "Jpn": "ベルの王となった少年は、",
+        "Chs": "成为Bel之王的少年",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "216",
+        "File": "F_word_2_03.png",
+        "Jpn": "その身に宿した悪魔の力を、",
+        "Chs": "被要求使用他体内",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "217",
+        "File": "F_word_2_04.png",
+        "Jpn": "神の代行者としてふるうよう、",
+        "Chs": "所拥有的恶魔之力",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "218",
+        "File": "F_word_2_05.png",
+        "Jpn": "求められたのだ。",
+        "Chs": "履行神使之职",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "219",
+        "File": "F_word_2_06.png",
+        "Jpn": "…それは、人々の罪への裁き。",
+        "Chs": "……那便是制裁人们的罪过",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "220",
+        "File": "F_word_2_07.png",
+        "Jpn": "罪を犯す者は絶対の秩序によって裁かれ、",
+        "Chs": "犯下罪过的人，将受到绝对秩序的制裁",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "221",
+        "File": "F_word_2_08.png",
+        "Jpn": "人間は神への畏怖を傍らに置き、",
+        "Chs": "人类将对神心怀畏惧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "222",
+        "File": "F_word_2_09.png",
+        "Jpn": "いつ如何なる時も、清らかに生きた。",
+        "Chs": "无论何时，都过着清廉的生活",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "223",
+        "File": "F_word_2_10.png",
+        "Jpn": "世界に新たな秩序の時代が訪れたのである。",
+        "Chs": "世界进入了新的秩序时代",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "224",
+        "File": "F_word_4_00.png",
+        "Jpn": "…そして、",
+        "Chs": "然后……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "225",
+        "File": "F_word_4_01.png",
+        "Jpn": "事件からしばらくが過ぎたある日。",
+        "Chs": "事件过后的某一天",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "226",
+        "File": "F_word_4_02.png",
+        "Jpn": "役割を終えた改造COMPに、",
+        "Chs": "完成任务的改造COMP",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "227",
+        "File": "F_word_4_03.png",
+        "Jpn": "１通のメールが着信した。",
+        "Chs": "收到了一封邮件",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "228",
+        "File": "ex_event_startE_msg_2_01a_t.png",
+        "Jpn": "聞け、人よ。",
+        "Chs": "听好了，人类",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "229",
+        "File": "ex_event_startE_msg_2_01b_t.png",
+        "Jpn": "我々は御主のご意思にしたがい、",
+        "Chs": "吾等奉主之命",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "230",
+        "File": "ex_event_startE_msg_2_01c_t.png",
+        "Jpn": "封鎖により悪魔の拡散を防ぎたり。",
+        "Chs": "借由封锁防止恶魔扩散",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "231",
+        "File": "ex_event_startE_msg_2_02a_t.png",
+        "Jpn": "だが人よ、汝ら人間の内、",
+        "Chs": "然而人类啊，汝等人类之中",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "232",
+        "File": "ex_event_startE_msg_2_02b_t.png",
+        "Jpn": "野心を持つ者どもが悪魔の力に集い、",
+        "Chs": "野心勃勃者聚集恶魔之力",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "233",
+        "File": "ex_event_startE_msg_2_02c_t.png",
+        "Jpn": "その内に魔王と化けしたるものあり。",
+        "Chs": "其中有人化身为魔王",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "234",
+        "File": "ex_event_startE_msg_2_03a_t.png",
+        "Jpn": "故に、封鎖は昨日で解かる事なく、",
+        "Chs": "因此，封锁不会在昨日解除",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "235",
+        "File": "ex_event_startE_msg_2_03b_t.png",
+        "Jpn": "汝ら、いまだその自由を奪われたり。",
+        "Chs": "汝等，至今仍被剥夺自由",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "236",
+        "File": "ex_event_startE_msg_2_03c_t.png",
+        "Jpn": "人にして人にあらざる魔王を討て。",
+        "Chs": "去讨伐身为人类却非人类的魔王",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "237",
+        "File": "ex_event_startE_msg_2_04a_t.png",
+        "Jpn": "…汝ら人間に告ぐ。",
+        "Chs": "……告诫汝等人类",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "238",
+        "File": "ex_event_startE_msg_2_04b_t.png",
+        "Jpn": "この忌まわしき封鎖の元凶たる、",
+        "Chs": "讨伐导致封锁的可恶元凶",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "239",
+        "File": "ex_event_startE_msg_2_04c_t.png",
+        "Jpn": "人にして人にあらざる魔王を討て。",
+        "Chs": "身为人类，却非人类的魔王",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "240",
+        "File": "ex_event_startE_msg_2_05a_t.png",
+        "Jpn": "さすれば我々は封鎖を解き、",
+        "Chs": "如此一来，吾等将解除封锁",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "241",
+        "File": "ex_event_startE_msg_2_05b_t.png",
+        "Jpn": "汝ら人に、平穏が戻るだろう。",
+        "Chs": "汝等人类，将恢复和平",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "242",
+        "File": "ex_event_startE_msg_2_05c_t.png",
+        "Jpn": "其は、御主の慈悲なり。",
+        "Chs": "此乃，主之慈悲",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "243",
+        "File": "ex_event_startE_msg_2_06a_t.png",
+        "Jpn": "人よ、覚え置け。",
+        "Chs": "人类啊，需谨记",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "244",
+        "File": "ex_event_startE_msg_2_06b_t.png",
+        "Jpn": "これは神の試練である。",
+        "Chs": "此乃神的试炼",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "245",
+        "File": "ex_event_startE_msg_2_07a_t.png",
+        "Jpn": "汝らが生き永らえる道は、",
+        "Chs": "汝等得以永生的道路",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "246",
+        "File": "ex_event_startE_msg_2_07b_t.png",
+        "Jpn": "魔王を討つほかにはない。",
+        "Chs": "唯有讨伐魔王",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "247",
+        "File": "ex_event_startE_msg_3_01a_t.png",
+        "Jpn": "…我が名はメタトロン。",
+        "Chs": "……吾名梅塔特隆",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "248",
+        "File": "ex_event_startE_msg_3_01b_t.png",
+        "Jpn": "御主の御意思により、",
+        "Chs": "奉主之命",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "249",
+        "File": "ex_event_startE_msg_3_01c_t.png",
+        "Jpn": "この世界と人間を浄化する。",
+        "Chs": "净化此世界与人类",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "250",
+        "File": "ex_event_startE_msg_3_02a_t.png",
+        "Jpn": "其を防がんとすれば、",
+        "Chs": "若欲阻止此事",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "251",
+        "File": "ex_event_startE_msg_3_02b_t.png",
+        "Jpn": "人にして魔王となり者、",
+        "Chs": "身为人却成为魔王者",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "252",
+        "File": "ex_event_startE_msg_3_02c_t.png",
+        "Jpn": "悔い改め、己が命を供物とせよ。",
+        "Chs": "忏悔改过，以己身之命为供品",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "253",
+        "File": "ex_event_startE_msg_3_03a_t.png",
+        "Jpn": "さすれば、神の裁きは免れ、",
+        "Chs": "如此一来，即可免于神之裁罚",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "254",
+        "File": "ex_event_startE_msg_3_03b_t.png",
+        "Jpn": "人はこの先も栄えるであろう。",
+        "Chs": "人类今后将繁荣永续",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "255",
+        "File": "ex_event_startE_msg_3_03c_t.png",
+        "Jpn": "世界を混沌へと導く者なり。",
+        "Chs": "将世界引入混沌者",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "256",
+        "File": "ex_event_startE_msg_3_04a_t.png",
+        "Jpn": "…聞け。",
+        "Chs": "听好……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "257",
+        "File": "ex_event_startE_msg_3_04b_t.png",
+        "Jpn": "人の身にして、魔王となりし者よ。",
+        "Chs": "身为人类却成为魔王者啊",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "258",
+        "File": "ex_event_startE_msg_3_05a_t.png",
+        "Jpn": "己が身の1つで、",
+        "Chs": "以汝一己之身",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "259",
+        "File": "ex_event_startE_msg_3_05b_t.png",
+        "Jpn": "人の世は救われる…。",
+        "Chs": "便可拯救人世……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "260",
+        "File": "ex_event_startE_msg_3_05c_t.png",
+        "Jpn": "決断せよ、これは最後の通告なり。",
+        "Chs": "速速决定，此乃最后通告",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "261",
+        "File": "ex_event_startE_msg_3_06a_t.png",
+        "Jpn": "…愚かなり、人間たちよ。",
+        "Chs": "……甚是愚蠢，人类",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "262",
+        "File": "ex_event_startE_msg_3_06b_t.png",
+        "Jpn": "悪魔は汝らより秩序を奪い、",
+        "Chs": "恶魔自汝等身上夺去秩序",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "263",
+        "File": "ex_event_startE_msg_3_06c_t.png",
+        "Jpn": "世界を混沌へと導く者なり。",
+        "Chs": "乃引导世界至混沌者",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "264",
+        "File": "ex_event_startE_msg_3_07a_t.png",
+        "Jpn": "悪しき力にすがる事なかれ。",
+        "Chs": "勿依靠邪恶之力",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "265",
+        "File": "ex_event_startE_msg_3_07b_t.png",
+        "Jpn": "魔王の名を讃える事なかれ。",
+        "Chs": "勿赞扬魔王之名",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "266",
+        "File": "ex_event_startE_msg_3_07c_t.png",
+        "Jpn": "其は神の手を振りほどく行為なり。",
+        "Chs": "此乃挣脱神之手的行为",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "267",
+        "File": "ex_event_startE_msg_3_08a_t.png",
+        "Jpn": "人間よ、今一度己を顧みよ。",
+        "Chs": "人类啊，今当省视己身",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "268",
+        "File": "ex_event_startE_msg_3_08b_t.png",
+        "Jpn": "混沌の闇に足を踏み出すことなかれ。",
+        "Chs": "切勿踏入混沌之暗",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "269",
+        "File": "ex_event_startE_msg_3_08c_t.png",
+        "Jpn": "神の秩序の光に留まるのだ。",
+        "Chs": "应留于神之秩序之光",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "270",
+        "File": "ex_event_startE_msg_3_09a_t.png",
+        "Jpn": "…神の慈悲を拒む、",
+        "Chs": "拒绝神之慈悲……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "271",
+        "File": "ex_event_startE_msg_3_09b_t.png",
+        "Jpn": "差し伸べられたる手を、",
+        "Chs": "挥开施援之手",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "272",
+        "File": "ex_event_startE_msg_3_09c_t.png",
+        "Jpn": "振り払うとは愚かなり。",
+        "Chs": "实为愚昧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "273",
+        "File": "ex_event_startE_msg_3_10a_t.png",
+        "Jpn": "我、其を止める事はせず。",
+        "Chs": "吾，不会阻止此事",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "274",
+        "File": "ex_event_startE_msg_3_10b_t.png",
+        "Jpn": "だがそれは滅びの道であると知れ。",
+        "Chs": "但汝等应知，此乃毁灭之道",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "275",
+        "File": "ex_event_startE_msg_3_10c_t.png",
+        "Jpn": "汝らの選びし先には絶望のみが待つ。",
+        "Chs": "汝等所选，前方仅有绝望",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "276",
+        "File": "ex_event_startE_msg01a.png",
+        "Jpn": "東京の封鎖は解かれ、",
+        "Chs": "东京的封锁解除",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "277",
+        "File": "ex_event_startE_msg01b.png",
+        "Jpn": "街は以前の様子を取り戻した。",
+        "Chs": "城市恢复为以往的模样",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "278",
+        "File": "ex_event_startE_msg02a.png",
+        "Jpn": "人々の生活は、",
+        "Chs": "人们的生活",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "279",
+        "File": "ex_event_startE_msg02b.png",
+        "Jpn": "何事もなかったかのように",
+        "Chs": "仿佛什么事都没发生过似的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "280",
+        "File": "ex_event_startE_msg02c.png",
+        "Jpn": "元に戻っていったのである。",
+        "Chs": "恢复了原状",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "281",
+        "File": "ex_event_startE_msg03a.png",
+        "Jpn": "ただ、ベルの魔王となった、",
+        "Chs": "只是，成为Bel魔王的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "282",
+        "File": "ex_event_startE_msg03b.png",
+        "Jpn": "少年の姿だけが、",
+        "Chs": "少年的身影",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "283",
+        "File": "ex_event_startE_msg03c.png",
+        "Jpn": "この日常からきえていた。",
+        "Chs": "从这个日常中消失了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "284",
+        "File": "ex_event_startE_msg04a.png",
+        "Jpn": "人でありつつ魔王となった少年は、",
+        "Chs": "身为人类却成为魔王的少年",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "285",
+        "File": "ex_event_startE_msg04b.png",
+        "Jpn": "神の使いさえも地上から退け、",
+        "Chs": "从人间击退了神的使者",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "286",
+        "File": "ex_event_startE_msg04c.png",
+        "Jpn": "世界に平和が訪れた。",
+        "Chs": "使世界迎来了和平",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "287",
+        "File": "ex_event_startE_msg05a.png",
+        "Jpn": "神は少年を人ではなく、",
+        "Chs": "神不再将少年视为人类",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "288",
+        "File": "ex_event_startE_msg05b.png",
+        "Jpn": "魔王と認め、戦いの場は、",
+        "Chs": "而承认他是魔王",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "289",
+        "File": "ex_event_startE_msg05c.png",
+        "Jpn": "地上から魔界や天界に移る。",
+        "Chs": "战场从人间转移到了魔界和天界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "290",
+        "File": "ex_event_startE_msg06a.png",
+        "Jpn": "魔王となった少年が、",
+        "Chs": "成为魔王的少年",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "291",
+        "File": "ex_event_startE_msg06b.png",
+        "Jpn": "魔界に消えて一月後…。",
+        "Chs": "消失在魔界后一个月……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "292",
+        "File": "ex_event_startE_msg07a.png",
+        "Jpn": "人々は早くも封鎖以前のような",
+        "Chs": "人们很快就回到了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "293",
+        "File": "ex_event_startE_msg07b.png",
+        "Jpn": "日常に帰っていた。",
+        "Chs": "封锁以前的日常",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "294",
+        "File": "ex_event_startE_msg08a.png",
+        "Jpn": "…だが人々は決して忘れないだろう。",
+        "Chs": "……但是人们绝对不会忘记",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "295",
+        "File": "ex_event_startE_msg09a.png",
+        "Jpn": "人々の日常の影で、神と戦い続ける",
+        "Chs": "在人们的日常背后",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "296",
+        "File": "ex_event_startE_msg09b.png",
+        "Jpn": "1人の少年がいる事を…。",
+        "Chs": "有一个少年一直在与神战斗……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "297",
+        "File": "ex_event_startE_msg01a_t.png",
+        "Jpn": "ついに覚醒を迎えたベルの魔王は、",
+        "Chs": "终于觉醒的Bel魔王",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "298",
+        "File": "ex_event_startE_msg01b_t.png",
+        "Jpn": "逆らう者全てを下し、",
+        "Chs": "将反抗者全部击溃",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "299",
+        "File": "ex_event_startE_msg01c.png",
+        "Jpn": "神の軍勢を地上から消し去った。",
+        "Chs": "神的军队从人间消失",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "300",
+        "File": "ex_event_startE_msg02a.png",
+        "Jpn": "神は人の世を見捨て、天使が",
+        "Chs": "神舍弃了人世",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "301",
+        "File": "ex_event_startE_msg02b.png",
+        "Jpn": "この世界の空を舞う事は二度とない。",
+        "Chs": "天使再也不会在这世界的天空中飞舞",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "302",
+        "File": "ex_event_startE_msg02c.png",
+        "Jpn": "人類は神の管理から逃れたのだ。",
+        "Chs": "人类从神的管理中逃脱了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "303",
+        "File": "ex_event_startE_msg03a.png",
+        "Jpn": "一連の事件で有効な措置を打てなかった",
+        "Chs": "政府在这一连串事件中没有采取有效措施",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "304",
+        "File": "ex_event_startE_msg03b.png",
+        "Jpn": "政府に対する国民の非難は大きく、",
+        "Chs": "对此很多国民指责政府",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "305",
+        "File": "ex_event_startE_msg03c.png",
+        "Jpn": "国家の威信は揺らいだ。",
+        "Chs": "国家的威信受到了动摇",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "306",
+        "File": "ex_event_startE_msg04a.png",
+        "Jpn": "代わって、圧倒的な力で天使を退けた、",
+        "Chs": "取而代之，以压倒性的力量击退天使的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "307",
+        "File": "ex_event_startE_msg04b.png",
+        "Jpn": "ベルの魔王を支持する国民は多く、",
+        "Chs": "Bel魔王得到了许多国民的支持",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "308",
+        "File": "ex_event_startE_msg04c.png",
+        "Jpn": "人々は魔王による支配を望んだのだ。",
+        "Chs": "人们期望魔王的统治",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "309",
+        "File": "ex_event_startE_msg05a.png",
+        "Jpn": "それに異をお唱える世界の各国は",
+        "Chs": "对此表示异议的世界各国",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "310",
+        "File": "ex_event_startE_msg05b.png",
+        "Jpn": "魔王に対し軍隊を差し向けた。",
+        "Chs": "向魔王派出了军队",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "311",
+        "File": "ex_event_startE_msg06a.png",
+        "Jpn": "…だが数多くの悪魔を従えた",
+        "Chs": "……但是在率领着众多恶魔的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "312",
+        "File": "ex_event_startE_msg06b.png",
+        "Jpn": "ベルの魔王の前に、それら全ての国々は",
+        "Chs": "Bel魔王面前",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "313",
+        "File": "ex_event_startE_msg06c.png",
+        "Jpn": "ことごとく打ち破られ、瓦解した。",
+        "Chs": "这些国家被悉数击破，崩溃瓦解",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "314",
+        "File": "ex_event_startE_msg07a.png",
+        "Jpn": "人の世界は、ひとりの魔王を頂点に、",
+        "Chs": "人类世界，以一名魔王为顶点",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "315",
+        "File": "ex_event_startE_msg07b.png",
+        "Jpn": "1つにまとまって行ったのである。",
+        "Chs": "逐渐整合为一",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "316",
+        "File": "ex_event_startE_msg08a.png",
+        "Jpn": "…やがてベルの魔王は世界を統べ、",
+        "Chs": "……不久后，Bel魔王将统治世界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "317",
+        "File": "ex_event_startE_msg08b.png",
+        "Jpn": "人々はその足元にくっするだろう。",
+        "Chs": "人们也会跪拜在他的脚下吧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "318",
+        "File": "ex_event_startE_msg09a.png",
+        "Jpn": "そして世界は魔王の元に一つとなる日が",
+        "Chs": "世界将会在魔王的统治下团结一致",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "319",
+        "File": "ex_event_startE_msg09b.png",
+        "Jpn": "訪れるであろう。",
+        "Chs": "这一天终将到来",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "320",
+        "File": "ex_event_startE_msg10a.png",
+        "Jpn": "それは古の時代、神が雷をまって、",
+        "Chs": "那是在远古时代神明降下天雷",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "321",
+        "File": "ex_event_startE_msg10b.png",
+        "Jpn": "高き塔を崩した日より前に、",
+        "Chs": "高塔崩塌之前",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "322",
+        "File": "ex_event_startE_msg10c.png",
+        "Jpn": "確かに存在した幻の世界だ。",
+        "Chs": "确实存在过的虚幻世界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "323",
+        "File": "ex_event_startE_msg11a.png",
+        "Jpn": "その時こそ、ベルの魔王は、",
+        "Chs": "届时，Bel魔王……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "324",
+        "File": "ex_event_startE_msg11b.png",
+        "Jpn": "高き塔より天へと昇るだろう。",
+        "Chs": "将会从高塔升上天际吧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "325",
+        "File": "ex_event_startE_msg11c.png",
+        "Jpn": "神の存在を亡きものにするために…。",
+        "Chs": "为了将神的存在化为虚无……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "326",
+        "File": "ex_event_startC_1_msg01a.png",
+        "Jpn": "翔門会の主上、ベル・ベリトを倒し、",
+        "Chs": "打倒了翔门会的主上巴力比利土，",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "327",
+        "File": "ex_event_startC_1_msg01b.png",
+        "Jpn": "悪魔を消すための行動は開始された。",
+        "Chs": "消灭恶魔的行动就此开始",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "328",
+        "File": "ex_event_startC_1_msg02a.png",
+        "Jpn": "同時に、この日から少年たちは、",
+        "Chs": "同时，少年们从这一天开始",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "329",
+        "File": "ex_event_startC_1_msg02b.png",
+        "Jpn": "政府と協力し、悪魔をせん滅する戦いを",
+        "Chs": "与政府合作",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "330",
+        "File": "ex_event_startC_1_msg02c.png",
+        "Jpn": "始める事になるだろう。",
+        "Chs": "展开消灭恶魔的战斗",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "331",
+        "File": "ex_event_startC_1_msg03a.png",
+        "Jpn": "神に見捨てられた人間の未来は、",
+        "Chs": "人类亲手编织起",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "332",
+        "File": "ex_event_startC_1_msg03b.png",
+        "Jpn": "人間の手によって、紡がれて行くのだ。",
+        "Chs": "被神明舍弃的未来",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "333",
+        "File": "ex_event_startC_2_msg01a.png",
+        "Jpn": "だが…少年たちはまだ知らない。",
+        "Chs": "但是……少年们还不知道",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "334",
+        "File": "ex_event_startC_2_msg01b.png",
+        "Jpn": "彼らがどんなに戦っても、",
+        "Chs": "无论他们如何战斗",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "335",
+        "File": "ex_event_startC_2_msg01c.png",
+        "Jpn": "地上から悪魔の姿は消えないだろう。",
+        "Chs": "恶魔都不会从人间消失",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "336",
+        "File": "ex_event_startC_2_msg02a.png",
+        "Jpn": "その原因が、東京を守る結界の消失に",
+        "Chs": "当他们知道原因在于",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "337",
+        "File": "ex_event_startC_2_msg02b.png",
+        "Jpn": "あると知った時、世界はすでに、",
+        "Chs": "守护东京的结界消失时",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "338",
+        "File": "ex_event_startC_2_msg02c.png",
+        "Jpn": "悪魔との戦いの中心にあるだろう。",
+        "Chs": "世界已到处蔓延着与恶魔战斗的战火",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "339",
+        "File": "ex_event_startC_2_msg03a.png",
+        "Jpn": "全ては人の手によって、",
+        "Chs": "一切只能靠",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "340",
+        "File": "ex_event_startC_2_msg03b.png",
+        "Jpn": "行われなければならない。",
+        "Chs": "人类自己的力量",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "341",
+        "File": "ex_event_startC_2_msg03c.png",
+        "Jpn": "神の助けは、永遠に訪れないのだから。",
+        "Chs": "因为神明的援助永远不会到来",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "342",
+        "File": "ex_event_startC_3_msg01a.png",
+        "Jpn": "四天王が新たに張った結界により",
+        "Chs": "四天王重新张开结界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "343",
+        "File": "ex_event_startC_3_msg01b.png",
+        "Jpn": "悪魔の流入を防ぐことに成功した東京は、",
+        "Chs": "成功防止恶魔流入的东京……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "344",
+        "File": "ex_event_startC_3_msg01c.png",
+        "Jpn": "着実に人間の手に戻りつつある。",
+        "Chs": "正一步步地回到人类的手中",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "345",
+        "File": "ex_event_startC_3_msg02a.png",
+        "Jpn": "いつの日か、地上から悪魔は消え去り、",
+        "Chs": "总有一天，恶魔会从人间消失……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "346",
+        "File": "ex_event_startC_3_msg02b.png",
+        "Jpn": "人間に平穏な日々が戻る事だろう。",
+        "Chs": "人类也能回到平稳的日子吧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "347",
+        "File": "ex_event_startC_3_msg03a.png",
+        "Jpn": "それは神の奇跡によってもたらされた",
+        "Chs": "那并非神迹所带来的虚假和平",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "348",
+        "File": "ex_event_startC_3_msg03b.png",
+        "Jpn": "仮初の平和ではなく、人の手によって",
+        "Chs": "而是由人类亲手创造出来的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "349",
+        "File": "ex_event_startC_3_msg03c.png",
+        "Jpn": "作られた、本当の日常の姿なのだ。",
+        "Chs": "真正的日常",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "350",
+        "File": "ex_event_startE_msg01a_t.png",
+        "Jpn": "ついに覚醒を迎えたベルの魔王は、",
+        "Chs": "终于觉醒的Bel魔王",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "351",
+        "File": "ex_event_startE_msg01b_t.png",
+        "Jpn": "逆らう者全てを下し、",
+        "Chs": "将反抗者全部击溃",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "352",
+        "File": "ex_event_startE_msg01c.png",
+        "Jpn": "神の軍勢を地上から消し去った。",
+        "Chs": "神的军队从人间消失",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "353",
+        "File": "ex_event_startE_msg02a.png",
+        "Jpn": "神は人の世を見捨て、天使が",
+        "Chs": "神舍弃了人世",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "354",
+        "File": "ex_event_startE_msg02b.png",
+        "Jpn": "この世界の空を舞う事は二度とない。",
+        "Chs": "天使再也不会在这世界的天空中飞舞",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "355",
+        "File": "ex_event_startE_msg02c.png",
+        "Jpn": "人類は神の管理から逃れたのだ。",
+        "Chs": "人类从神的管理中逃脱了",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "356",
+        "File": "ex_event_startE_msg03a.png",
+        "Jpn": "一連の事件で有効な措置を打てなかった",
+        "Chs": "政府在这一连串事件中没有采取有效措施",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "357",
+        "File": "ex_event_startE_msg03b.png",
+        "Jpn": "政府に対する国民の非難は大きく、",
+        "Chs": "对此很多国民指责政府",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "358",
+        "File": "ex_event_startE_msg03c.png",
+        "Jpn": "国家の威信は揺らいだ。",
+        "Chs": "国家的威信受到了动摇",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "359",
+        "File": "ex_event_startE_msg04a.png",
+        "Jpn": "代わって、圧倒的な力で天使を退けた、",
+        "Chs": "取而代之，以压倒性的力量击退天使的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "360",
+        "File": "ex_event_startE_msg04b.png",
+        "Jpn": "ベルの魔王を支持する国民は多く、",
+        "Chs": "Bel魔王得到了许多国民的支持",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "361",
+        "File": "ex_event_startE_msg04c.png",
+        "Jpn": "人々は魔王による支配を望んだのだ。",
+        "Chs": "人们期望魔王的统治",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "362",
+        "File": "ex_event_startE_msg05a.png",
+        "Jpn": "それに異をお唱える世界の各国は",
+        "Chs": "对此表示异议的世界各国",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "363",
+        "File": "ex_event_startE_msg05b.png",
+        "Jpn": "魔王に対し軍隊を差し向けた。",
+        "Chs": "向魔王派出了军队",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "364",
+        "File": "ex_event_startE_msg06a.png",
+        "Jpn": "…だが数多くの悪魔を従えた",
+        "Chs": "……但是在率领着众多恶魔的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "365",
+        "File": "ex_event_startE_msg06b.png",
+        "Jpn": "ベルの魔王の前に、それら全ての国々は",
+        "Chs": "Bel魔王面前",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "366",
+        "File": "ex_event_startE_msg06c.png",
+        "Jpn": "ことごとく打ち破られ、瓦解した。",
+        "Chs": "这些国家被悉数击破，崩溃瓦解",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "367",
+        "File": "ex_event_startE_msg07a.png",
+        "Jpn": "人の世界は、ひとりの魔王を頂点に、",
+        "Chs": "人类世界，以一名魔王为顶点",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "368",
+        "File": "ex_event_startE_msg07b.png",
+        "Jpn": "1つにまとまって行ったのである。",
+        "Chs": "逐渐整合为一",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "369",
+        "File": "ex_event_startE_msg08a.png",
+        "Jpn": "…やがてベルの魔王は世界を統べ、",
+        "Chs": "……不久后，Bel魔王将统治世界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "370",
+        "File": "ex_event_startE_msg08b.png",
+        "Jpn": "人々はその足元にくっするだろう。",
+        "Chs": "人们也会跪拜在他的脚下吧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "371",
+        "File": "ex_event_startE_msg09a.png",
+        "Jpn": "そして世界は魔王の元に一つとなる日が",
+        "Chs": "世界将会在魔王的统治下团结一致",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "372",
+        "File": "ex_event_startE_msg09b.png",
+        "Jpn": "訪れるであろう。",
+        "Chs": "这一天终将到来",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "373",
+        "File": "ex_event_startE_msg10a.png",
+        "Jpn": "それは古の時代、神が雷をまって、",
+        "Chs": "那是在远古时代神明降下天雷",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "374",
+        "File": "ex_event_startE_msg10b.png",
+        "Jpn": "高き塔を崩した日より前に、",
+        "Chs": "高塔崩塌之前",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "375",
+        "File": "ex_event_startE_msg10c.png",
+        "Jpn": "確かに存在した幻の世界だ。",
+        "Chs": "确实存在过的虚幻世界",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "376",
+        "File": "ex_event_startE_msg11a.png",
+        "Jpn": "その時こそ、ベルの魔王は、",
+        "Chs": "届时，Bel魔王……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "377",
+        "File": "ex_event_startE_msg11b.png",
+        "Jpn": "高き塔より天へと昇るだろう。",
+        "Chs": "将会从高塔升上天际吧",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "378",
+        "File": "ex_event_startE_msg11c.png",
+        "Jpn": "神の存在を亡きものにするために…。",
+        "Chs": "为了将神的存在化为虚无……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "379",
+        "File": "ex_event_startF_msg01a_b.png",
+        "Jpn": "日本を創ったオオクニヌシは",
+        "Chs": "创造日本的大国主",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "380",
+        "File": "ex_event_startF_msg01b_b.png",
+        "Jpn": "少年を救世主と認め、",
+        "Chs": "承认少年为救世主",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "381",
+        "File": "ex_event_startF_msg01c_b.png",
+        "Jpn": "国譲りの儀を終えた。",
+        "Chs": "完成了让国仪式",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "382",
+        "File": "ex_event_startF_msg02a_b.png",
+        "Jpn": "オオクニヌシの力をうけていた",
+        "Chs": "原本利用大国主力量的恶魔使……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "383",
+        "File": "ex_event_startF_msg02b_b.png",
+        "Jpn": "悪魔使いたちも、少年を認める事で、",
+        "Chs": "也认同了少年",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "384",
+        "File": "ex_event_startF_msg02c_b.png",
+        "Jpn": "COMPを差し出し降伏した。",
+        "Chs": "交出COMP投降",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "385",
+        "File": "ex_event_startF_msg03a_b.png",
+        "Jpn": "やがて封鎖内の悪魔使いがいなくなった",
+        "Chs": "不久后，确认封锁内的恶魔使全部消失",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "386",
+        "File": "ex_event_startF_msg03b_b.png",
+        "Jpn": "事が確認されると、少年をはじめ",
+        "Chs": "在少年领导下",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "387",
+        "File": "ex_event_startF_msg03c_b.png",
+        "Jpn": "翔門会も全てのCOMPを廃棄した。",
+        "Chs": "翔门会也废弃了所有COMP",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "388",
+        "File": "ex_event_startF_msg04a_b.png",
+        "Jpn": "この世界で悪魔を使役できる者は、",
+        "Chs": "在这个世界能够使役恶魔的人……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "389",
+        "File": "ex_event_startF_msg04b_b.png",
+        "Jpn": "文字通り、救世主であり魔王である少年",
+        "Chs": "一如字面，仅有这个既为救世主",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "390",
+        "File": "ex_event_startF_msg04c_b.png",
+        "Jpn": "ただ一人となったのだ…。",
+        "Chs": "又为魔王的少年……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "391",
+        "File": "ex_event_startE_msg_0_01a_t.png",
+        "Jpn": "少年は高らかに自らが、",
+        "Chs": "少年高声宣布",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "392",
+        "File": "ex_event_startE_msg_0_01b_t.png",
+        "Jpn": "魔王となった事を宣言した。",
+        "Chs": "自己成为魔王这一事实",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "393",
+        "File": "ex_event_startE_msg_1_01a_t.png",
+        "Jpn": "…同時に、東京中に溢れていた悪魔は、",
+        "Chs": "……同时，原本充斥东京的恶魔",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "394",
+        "File": "ex_event_startE_msg_1_01b_t.png",
+        "Jpn": "突如、人間への攻撃を中止し、",
+        "Chs": "突然停止攻击人类……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "395",
+        "File": "ex_event_startE_msg_1_01c_t.png",
+        "Jpn": "魔王である少年の元へ集った。",
+        "Chs": "聚集到身为魔王的少年身边",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "396",
+        "File": "ex_event_startE_msg_1_02a_t.png",
+        "Jpn": "彼の下に集まる悪魔の群れを",
+        "Chs": "目睹聚集在他旗下的恶魔群……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "397",
+        "File": "ex_event_startE_msg_1_02b_t.png",
+        "Jpn": "目の当たりにして、魔王の存在に",
+        "Chs": "没有任何人对魔王的存在",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "398",
+        "File": "ex_event_startE_msg_1_02c_t.png",
+        "Jpn": "疑いを持つ者は誰一人いなかった。",
+        "Chs": "抱有怀疑",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "399",
+        "File": "ex_event_startE_msg_1_03a_t.png",
+        "Jpn": "だが、人々はまだ魔王の誕生の、",
+        "Chs": "然而，人们还不知道……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "400",
+        "File": "ex_event_startE_msg_1_03b_t.png",
+        "Jpn": "本当の理由を知らない。",
+        "Chs": "魔王诞生的真正理由",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "401",
+        "File": "ex_event_startE_msg_1_04a_t.png",
+        "Jpn": "『自分を襲う悪魔がいなくなった』",
+        "Chs": "『袭击自己的恶魔不见了』",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "402",
+        "File": "ex_event_startE_msg_1_04b_t.png",
+        "Jpn": "この時、彼らを包んでいたのは、",
+        "Chs": "此时，笼罩在他们心头的",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "403",
+        "File": "ex_event_startE_msg_1_04c_t.png",
+        "Jpn": "ただその安堵だけだった…。",
+        "Chs": "只有安心感……",
+        "Func": "do_word",
+        "Comments": ""
+    },
+    {
+        "No.": "404",
+        "File": "moji_1_1.png",
+        "Jpn": "——汝、人の身に生まれし者よ。",
+        "Chs": "——汝，生于人世者",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "405",
+        "File": "moji_1_2.png",
+        "Jpn": "人は今や、力ある種。",
+        "Chs": "如今，人类乃力量之种",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "406",
+        "File": "moji_1_3.png",
+        "Jpn": "なれば人よ、汝は向き合わねばならない。",
+        "Chs": "既然如此，人类啊，汝必须面对",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "407",
+        "File": "moji_1_4.png",
+        "Jpn": "己が持つ力と、",
+        "Chs": "面对自身的力量",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "408",
+        "File": "moji_1_5.png",
+        "Jpn": "そして『運命』に——",
+        "Chs": "以及「命运」——",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "409",
+        "File": "moji_2_1.png",
+        "Jpn": "平穏な日常に在りても、",
+        "Chs": "即使身处平稳的日常",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "410",
+        "File": "moji_2_2.png",
+        "Jpn": "定めは刻々と迫り来り。",
+        "Chs": "定数刻刻都在逼近",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "411",
+        "File": "moji_2_3.png",
+        "Jpn": "——其は、裁きなり。",
+        "Chs": "——其为审判",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "412",
+        "File": "moji_2_4.png",
+        "Jpn": "かつて汝ら人の子の言葉を分かち、",
+        "Chs": "过去，汝等人子被剥夺共同语言",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "413",
+        "File": "moji_2_5.png",
+        "Jpn": "驕れる力を砕いたる雷なり。",
+        "Chs": "骄傲之力被雷霆粉碎",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "414",
+        "File": "moji_3_1.png",
+        "Jpn": "——されど。",
+        "Chs": "——然而",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "415",
+        "File": "moji_3_2.png",
+        "Jpn": "神自らに在らざる限り、",
+        "Chs": "只要神不存于世",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "416",
+        "File": "moji_3_3.png",
+        "Jpn": "全ての者は、闇をも抱く——",
+        "Chs": "所有人，都将怀抱黑暗——",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "417",
+        "File": "moji_4_1.png",
+        "Jpn": "人よ、真に己で在りたいならば、",
+        "Chs": "人类啊，若想真正地存在",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "418",
+        "File": "moji_4_2.png",
+        "Jpn": "汝は自ら、戦わねばならない。",
+        "Chs": "汝必须，亲自战斗",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "419",
+        "File": "moji_4_3.png",
+        "Jpn": "——汝の持てる闇、『悪魔』と。",
+        "Chs": "——与汝身负之暗，「恶魔」战斗",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "420",
+        "File": "moji_4_4.png",
+        "Jpn": "汝、戦の定めを負う者よ。",
+        "Chs": "汝，背负战斗命运之人",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "421",
+        "File": "moji_4_5.png",
+        "Jpn": "挑む意志あらば、",
+        "Chs": "若有反抗之志",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "422",
+        "File": "moji_4_6.png",
+        "Jpn": "その名を述べよ——",
+        "Chs": "便报上汝名——",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "423",
+        "File": "moji_5_1.png",
+        "Jpn": "神曰く——",
+        "Chs": "神曰——",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "424",
+        "File": "moji_5_2.png",
+        "Jpn": "七つの昼夜をもって創りしこの世を、",
+        "Chs": "用七天七夜创造的世界",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "425",
+        "File": "moji_5_3.png",
+        "Jpn": "七つのラッパの響きにて滅さん。",
+        "Chs": "必在七次号角声中毁灭",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "426",
+        "File": "moji_5_4.png",
+        "Jpn": "意志ある者よ、",
+        "Chs": "拥有意志之人啊",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "427",
+        "File": "moji_5_5.png",
+        "Jpn": "その瞳に映りし『数』を、恐れよ。",
+        "Chs": "畏惧映于汝眼的『数』吧",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "428",
+        "File": "moji_5_6.png",
+        "Jpn": "残されし、昼と夜の数を——",
+        "Chs": "畏惧所剩的昼夜之数——",
+        "Func": "do_moji",
+        "Comments": ""
+    },
+    {
+        "No.": "",
+        "File": "",
+        "Jpn": "",
+        "Chs": "",
+        "Func": "",
+        "Comments": ""
+    }
+]
