@@ -9,7 +9,7 @@ def extract_control_symbols(text):
 
     # 检查不完整的控制符，检测以 < 开头但缺少右尖括号 > 的符号
     incomplete_symbols = re.findall(r'<[^>]*$', text)
-
+    
     return symbols, incomplete_symbols
 
 def check_control_symbols(file_path):
