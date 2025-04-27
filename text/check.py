@@ -22,6 +22,10 @@ def check_control_symbols(file_path):
         jpn_text = row[2] or ""
         chs_text = row[3] or ""
 
+        # 如果 CHS 列为空，则跳过检查
+        if not chs_text:
+            continue
+
         # 提取控制符和不完整的符号
         jpn_symbols, jpn_incomplete = extract_control_symbols(jpn_text)
         chs_symbols, chs_incomplete = extract_control_symbols(chs_text)
